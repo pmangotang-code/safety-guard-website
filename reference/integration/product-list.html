@@ -1,0 +1,21 @@
+<!-- 적용 참고용 조각: 정적 미리보기 페이지가 아닙니다.
+  기존 /product/list.html 내부에 적용하며 {{CATEGORY_NUMBER}}는 실제 번호로 바꿉니다.
+  모듈의 반복 규칙 및 상품명 HTML 포함 여부는 현재 스킨에서 확인하세요.
+  상품분류·정렬·페이징 모듈은 기존 스킨에서 보존합니다.
+-->
+<div module="product_listnormal">
+  <!--
+    $count = 12
+    $cate_no = {{CATEGORY_NUMBER}}
+  -->
+  <ul class="product-grid">
+    <li class="product-card">
+      <a class="product-photo" href="/product/detail.html{$param}"><img src="{$image_medium}" alt="{$product_name}" loading="lazy"></a>
+      <div class="card-body"><h3><a href="/product/detail.html{$param}">{$product_name}</a></h3><p>{$product_price}</p></div>
+    </li>
+    <li class="product-card">
+      <a class="product-photo" href="/product/detail.html{$param}"><img src="{$image_medium}" alt="{$product_name}" loading="lazy"></a>
+      <div class="card-body"><h3><a href="/product/detail.html{$param}">{$product_name}</a></h3><p>{$product_price}</p></div>
+    </li>
+  </ul>
+</div>

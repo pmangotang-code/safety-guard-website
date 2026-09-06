@@ -1,0 +1,474 @@
+{
+  "checks": [
+    {
+      "file": "about.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "file": "blog.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "file": "case-forklift.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "file": "case-market.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "file": "case-voltage.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "file": "cases.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "file": "contact.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "file": "index.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "file": "post-case.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "file": "post-construction.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "file": "post-forklift.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "file": "post-guide.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "file": "post-message.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "file": "post-timer.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "file": "privacy.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "file": "product-beacon.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "file": "product-power.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "file": "product-remote.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "file": "product-sensor.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "file": "product-timer.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "file": "product-voice.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "file": "products.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "file": "solutions.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "file": "about.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "file": "blog.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "file": "case-forklift.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "file": "case-market.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "file": "case-voltage.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "file": "cases.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "file": "contact.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "file": "index.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "file": "post-case.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "file": "post-construction.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "file": "post-forklift.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "file": "post-guide.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "file": "post-message.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "file": "post-timer.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "file": "privacy.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "file": "product-beacon.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "file": "product-power.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "file": "product-remote.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "file": "product-sensor.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "file": "product-timer.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "file": "product-voice.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "file": "products.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "file": "solutions.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "file": "about.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "file": "blog.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "file": "case-forklift.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "file": "case-market.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "file": "case-voltage.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "file": "cases.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "file": "contact.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "file": "index.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "file": "post-case.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "file": "post-construction.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "file": "post-forklift.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "file": "post-guide.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "file": "post-message.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "file": "post-timer.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "file": "privacy.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "file": "product-beacon.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "file": "product-power.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "file": "product-remote.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "file": "product-sensor.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "file": "product-timer.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "file": "product-voice.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "file": "products.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "file": "solutions.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "file": "about.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "file": "blog.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "file": "case-forklift.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "file": "case-market.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "file": "case-voltage.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "file": "cases.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "file": "contact.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "file": "index.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "file": "post-case.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "file": "post-construction.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "file": "post-forklift.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "file": "post-guide.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "file": "post-message.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "file": "post-timer.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "file": "privacy.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "file": "product-beacon.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "file": "product-power.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "file": "product-remote.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "file": "product-sensor.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "file": "product-timer.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "file": "product-voice.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "file": "products.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "file": "solutions.html",
+      "width": 390,
+      "passed": true
+    }
+  ],
+  "consoleErrors": [],
+  "interactions": [
+    "제품 분류/검색/빈 결과",
+    "블로그 검색/분류",
+    "상품 문의 사전 선택",
+    "필수 입력 및 동의 검증",
+    "전송 없음/정직한 안내",
+    "모바일 메뉴/Escape"
+  ],
+  "screenshot": "안전보안관_카페24_다페이지_홈페이지_전체목업.png"
+}
